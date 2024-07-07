@@ -1,4 +1,4 @@
-package br.com.lucianomelo.gestao_vagas.modules.candidate.UseCases;
+package br.com.lucianomelo.gestao_vagas.modules.candidate.useCases;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
